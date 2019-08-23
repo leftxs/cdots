@@ -15,7 +15,6 @@ const (
 )
 
 func HandleEditorConfig(c *cli.Context) {
-
 	editorConfig := &templates.EditorConfig{Name: editorConfigFileName}
 	templ := &Templates{EditorConfig: editorConfig}
 
