@@ -1,2 +1,2 @@
 # cdots
-cdots is tool that allows to create dotfiles such as .gitignore, travis
+it is tool that allows to create many dotfiles such as .gitignore, travis
